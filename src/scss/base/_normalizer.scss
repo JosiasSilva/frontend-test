@@ -1,0 +1,23 @@
+body {
+	background-color: $black;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+
+	* {
+		box-sizing: border-box;
+	}
+
+	p, h2 {
+		margin: 0;
+	}
+
+	ul {
+		padding-left: 0;
+	}
+
+	li {
+		list-style: none;
+	}
+}
